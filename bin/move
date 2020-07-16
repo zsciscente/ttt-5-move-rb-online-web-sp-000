@@ -8,3 +8,11 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 
+puts "Welcome to Tic Tac Toe!"
+
+puts "Where would you like to go?"
+
+input = gets.split
+
+input_to_index(input) = index
+
